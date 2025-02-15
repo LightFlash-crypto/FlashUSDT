@@ -107,6 +107,7 @@ Subscribe to our Telegram channel and use our bot for up-to-date information and
 <img src="https://github.com/user-attachments/assets/b463065e-137b-4a08-a827-a0ed0431a73a" width="400" alt="Screenshot 7">
 <img src="https://github.com/user-attachments/assets/7bed212f-2b0c-4e8c-b49e-3f423f50ba64" width="400" alt="Screenshot 8">
 <img src="https://github.com/user-attachments/assets/8e0e4d25-6357-4074-99b8-0ddfead89787" width="400" alt="Screenshot 9">
+<img src="https://github.com/user-attachments/assets/58fc9937-f683-4c62-b074-234368f3b381" width="400" alt="Screenshot 10">
 
 ---
 
@@ -232,6 +233,7 @@ Subscribe to our Telegram channel and use our bot for up-to-date information and
 <img src="https://github.com/user-attachments/assets/b463065e-137b-4a08-a827-a0ed0431a73a" width="400" alt="Screenshot 7">
 <img src="https://github.com/user-attachments/assets/7bed212f-2b0c-4e8c-b49e-3f423f50ba64" width="400" alt="Screenshot 8">
 <img src="https://github.com/user-attachments/assets/8e0e4d25-6357-4074-99b8-0ddfead89787" width="400" alt="Screenshot 9">
+<img src="https://github.com/user-attachments/assets/ed48e2fc-afeb-4140-81c8-21a4092c2a97" width="400" alt="Screenshot 10">
 
 ---
 
